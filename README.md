@@ -1,5 +1,6 @@
 # Gadgets
 
-Gadgets are part of multiple plugins, including [**Paintball War Edition**](https://github.com/PaintballWarEdition/Paintball-Wiki) and [**BattleGadgets**](https://github.com/PaintballWarEdition/BattleGadgets-Wiki).
+Gadgets is a framework which adds lots of highly customizable and fun to use weapons and other types of gadgets to minecraft.<br>
+It is used by multiple plugins, including [**Paintball War Edition**](https://github.com/PaintballWarEdition/Paintball-Wiki) and [**BattleGadgets**](https://github.com/PaintballWarEdition/BattleGadgets-Wiki).
 
-Their setup, configuration and usage is the same for all of those plugins, therefore Gadgets get their dedicated wiki.
+Documentation about the setup, configuration and usage of Gadgets can be found in the [**wiki**](https://github.com/PaintballWarEdition/Gadgets-Wiki/wiki).
